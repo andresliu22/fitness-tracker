@@ -45,7 +45,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Deployed Link
 
-* [See Deployed App](https://andresliu-tech-blog.herokuapp.com/)
+* [See Deployed App](https://andresliu-fitness-tracker.herokuapp.com/)
 
 ## Authors
 
