@@ -6,9 +6,6 @@ const WorkoutSchema = new Schema({
     type: Date,
     default: Date.now
   },
-  totalDuration: {
-    type: Number,
-  },
   exercises: [{
     type: {
       type: String,
